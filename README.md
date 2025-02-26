@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/48a92305-b6aa-4744-a28e-c14b80b096f2" height="320" width="650"><br>
 **about:** a movie search application that uses API to fetch movie details to help users to search for movies, add selected movies to a personal list **(the movie list is saved locally, so clearing the browser cache will result in losing the list)** & remove movies from the list<br>
 **requirements:** **Node.js** (v14 or higher recommended), **npm** (Node package manager), a valid **OMDb API key** (get from [OMDb API](https://www.omdbapi.com/apikey.aspx))<br> 
 **setup:** 
