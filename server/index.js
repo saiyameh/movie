@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 
 // Use your OMDb API key here.
 // Either store it in a .env file as OMDB_API_KEY=your_key or hardcode it below.
-const OMDB_API_KEY = process.env.OMDB_API_KEY || 'db89e5d';
+const OMDB_API_KEY = process.env.OMDB_API_KEY || 'your_actual_api_key_here';
 
 app.use(cors());
 app.use(express.json());
